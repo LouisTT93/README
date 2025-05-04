@@ -8,7 +8,10 @@ I am interested in coding in video games, i think that would be a really cool sk
 In my bootcamp I'm attending I'm currently working with javascript. I'm learning python on the side in my spare time. I really like some of the things I'm learning i can build with javascript, especially on thew math side of javascript. I'm excited to become more proficient in my craft. I think that makes the world of difference, in regards to work ethic.
 
                 ** How to reach me ***
-Author: Louis Valentine | Title: Software Engineer (E.L.) | Pronouns: He\Him Email: LouisTripleTen@gmail.com
+                Author: Louis Valentine
+             Title: Software Engineer (E.L.)
+             Email: LouisTripleTen@gmail.com
+                   Pronouns: He\Him 
 
                   * Recent Projects *
 
