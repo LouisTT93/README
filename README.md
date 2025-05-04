@@ -13,4 +13,4 @@ Author: Louis Valentine | Title: Software Engineer (E.L.) | Pronouns: He\Him Ema
                   * Recent Projects *
 
           Here is a link to my latest project:
-https://github.com/LouisTT93/se_project_spots This responsive web-design for all screen sizes was done with some media queries. The positioning was mostly all flexbox, although the cards were positioned using grid properties. This Project is also got a few well placed javascript components. Thanks for looking over my README and visiting my site. Have a blessed day.
+https://louistt93.github.io/se_project_spots/ This responsive web-design for all screen sizes was done with some media queries. The positioning was mostly all flexbox, although the cards were positioned using grid properties. This Project is also got a few well placed javascript components. Thanks for looking over my README and visiting my site. Have a blessed day.
